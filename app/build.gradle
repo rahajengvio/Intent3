@@ -8,6 +8,7 @@ android {
         applicationId "id.sch.smktelkom_mlg.learn.intent3"
         minSdkVersion 15
         targetSdkVersion 24
+        vectorDrawables.useSupportLibrary = true
         versionCode 1
         versionName "1.0"
     }
